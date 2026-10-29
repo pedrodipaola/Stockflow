@@ -48,7 +48,7 @@ Na versão final, o ambiente roda na AWS (EC2, S3, CloudWatch), é criado por c�
 
 ## Roadmap
 
-- [ ] Servidor Linux seguro (SSH por chave, firewall, serviço systemd, backup em Bash)
+- [X] Servidor Linux seguro (SSH por chave, firewall, serviço systemd, backup em Bash)
 - [ ] API mínima do StockFlow com testes (pytest)
 - [ ] Deploy na AWS (EC2 + Security Groups + S3 + alarme no CloudWatch)
 - [ ] Containerização com Docker Compose (API + PostgreSQL + Nginx)
